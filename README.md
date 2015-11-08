@@ -26,7 +26,7 @@ If you use this data, please cite the following paper(s):
 
 Before installing please read the contents of the [LICENSE](LICENSE.html) file that accompanies this distribution.
 
-h3. General Description:
+## General Description:
 
 The TroFi Example Base consists of literal and nonliteral usage clusters for 50 English verbs.  The clusters contain sentences using these words drawn from The 1987-89 Wall Street Journal (WSJ) Corpus Release 1.  The clusters were automatically generated using TroFi, a system for the unsupervised recognition of nonliteral language.  For detailed information on the TroFi Example Base and the system used to produce it, please see:
 
