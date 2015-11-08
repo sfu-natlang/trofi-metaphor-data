@@ -50,7 +50,6 @@ The TroFi Example Base contains literal/nonliteral clusters for the following wo
 | dissolve   | flood       | melt     | ride     | vaporize |
 | drag       | flourish    | miss     | roll     | wither   |
 -------------------------------------------------------------
-{: .table}
 
 Average accuracy is estimated at approximately 64%.
 
