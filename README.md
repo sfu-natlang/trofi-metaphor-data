@@ -37,6 +37,7 @@ The TroFi Example Base consists of literal and nonliteral usage clusters for 50 
 
 The TroFi Example Base contains literal/nonliteral clusters for the following words:
 
+-------------------------------------------------------------
 | absorb     | drink       | flow     | pass     | sleep    |
 | assault    | drown       | fly      | plant    | smooth   |
 | attack     | eat         | grab     | play     | step     |
@@ -47,6 +48,7 @@ The TroFi Example Base contains literal/nonliteral clusters for the following wo
 | die        | fix         | lend     | rest     | touch    |
 | dissolve   | flood       | melt     | ride     | vaporize |
 | drag       | flourish    | miss     | roll     | wither   |
+-------------------------------------------------------------
 {: .table}
 
 Average accuracy is estimated at approximately 64%.
